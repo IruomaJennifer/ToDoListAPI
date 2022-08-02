@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CCSANoteApp.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CCSANoteApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CCSANoteApp.Infrastructure.dll": {}
+        }
+      },
+      "CCSANoteApp.Domain/1.0.0": {
+        "runtime": {
+          "CCSANoteApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCSANoteApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CCSANoteApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

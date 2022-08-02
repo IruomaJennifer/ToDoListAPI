@@ -1,0 +1,58 @@
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.exe
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.deps.json
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.runtimeconfig.json
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.pdb
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.AssemblyInfo.cs
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\scopedcss\bundle\CCSA_Web.styles.css
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.csproj.CopyComplete
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\refint\CCSA_Web.dll
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.pdb
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.genruntimeconfig.cache
+C:\Users\PC\source\repos\CCSA_Web\CCSA_Web\obj\Debug\net6.0\ref\CCSA_Web.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\refint\CCSA_Web.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.exe
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.runtimeconfig.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSA_Web.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\scopedcss\bundle\CCSA_Web.styles.css
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.csproj.CopyComplete
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\CCSA_Web.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSA_Web\obj\Debug\net6.0\ref\CCSA_Web.dll

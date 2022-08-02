@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\refint\CCSANoteApp.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\ref\CCSANoteApp.Domain.dll

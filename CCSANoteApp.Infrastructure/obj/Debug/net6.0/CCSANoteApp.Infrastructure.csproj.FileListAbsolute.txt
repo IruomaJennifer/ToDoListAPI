@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\refint\CCSANoteApp.Infrastructure.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Phase2\Classes\CCSA_Web\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\ref\CCSANoteApp.Infrastructure.dll
